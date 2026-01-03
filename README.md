@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/simran-dhirwani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="simrandhirwani8@gmail.com">
     <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -59,19 +59,6 @@
 * **[Machine Learning DSMP]**: Comprehensive repository from the CampusX mentorship, covering regression algorithms, gradient descent, and statistical math from scratch.
 * **[DSA Practice]**: 300+ Solved problems (LeetCode/GFG) focusing on Time/Space complexity, Sorting Algorithms, Trees, and Graphs in **Java**.
 * **[Supermarket Billing System]**: A C++/Java desktop application demonstrating core OOP principles, file handling, and inventory management.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simrandhirwani&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrandhirwani&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://git.io/streak-stats-anim?user=simrandhirwani&theme=radical" height="180" alt="streak graph" />
-</div>
 
 ---
 
